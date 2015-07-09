@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "command": "cargo",
+    "tasks": [
+        {
+           "taskName": "build",
+           "showOutput": "always"
+        },
+        {
+            "taskName": "test",
+            "showOutput": "always"
+        }
+    ]
+},
